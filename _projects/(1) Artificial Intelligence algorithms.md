@@ -5,7 +5,7 @@ image: /images/Reinforcement.png
 description: Evaluation of AI algorithms (search, planning, reinforcement learning) on turtle bot for tasks in bookWorld and cafeWorld of gazebo environment.
 ---
 
-# AI algorithms on Turtle Bot
+# test111
 This is a 3 part project aimed at getting hands-on experience on each of the AI paradigms to learn using algorithms depending on the environments, agents, and tasks at hand.<br>
 I have used ROS melodic framework, which provides a virtual environment to test and visualize algorithms on robots (turtle bot in my case).
 The environment can be configured to have changes in observability, stochasticity, and environment changes concerning change in time.<br>
