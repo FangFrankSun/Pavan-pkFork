@@ -5,7 +5,7 @@ image: /images/sample.png
 description: Translating real images to Realism art style images.
 ---
 
-# RealismArt GAN
+# test1222
 Translating real images to Realism art style images. As this art style dates back to the 17th century and there is no image-to-image pair data available to train traditional style transfer networks, We have to go with unpaired image-to-image translation techniques. In this project, I'm exploring one such concept which uses 2 GAN networks with cycle consistent objective function between the networks.
 With this network, it is possible to generate realism-styled images of the current world and real-world-like photos from realism art-styled paintings.<br>
 
